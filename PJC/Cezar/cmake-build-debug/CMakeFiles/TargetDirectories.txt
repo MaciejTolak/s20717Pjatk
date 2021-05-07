@@ -1,0 +1,3 @@
+C:/Users/macie_8uyxyvg/Desktop/Nauka/PJC/Projekt_s20717/cmake-build-debug/CMakeFiles/Projekt_s20717.dir
+C:/Users/macie_8uyxyvg/Desktop/Nauka/PJC/Projekt_s20717/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/macie_8uyxyvg/Desktop/Nauka/PJC/Projekt_s20717/cmake-build-debug/CMakeFiles/rebuild_cache.dir
